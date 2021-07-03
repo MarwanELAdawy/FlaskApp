@@ -1,0 +1,168 @@
+/* -------------------------------------header-----------------------------------------------------------*/
+/* navbar */
+nav a
+{
+    font-size: larger;
+}
+.blue
+{
+    color: #5984C3 !important;
+    font-size: 2rem;
+}
+.yellow
+{
+    color: #ff9A08 !important;
+    font-size: 2rem;
+}
+.left
+{
+    margin-left: auto;
+}
+/* header-content  */
+.start-btn
+{
+    background-color: transparent;
+    color: #5984C3 !important ;
+    border: 2px solid white ;
+    border-radius: 12%;
+    font-size: 1.6rem;
+}
+.start-btn a
+{
+    text-decoration: none;
+}
+.start-btn :hover
+{
+    color: white;
+}
+.header-content h1
+{
+    font-size: 3rem;
+}
+/* header  */
+header
+{
+    height: 100Vh;
+    background-image: url(../static/assets/188870483_524751645602295_3009512810617327291_n.jpg);
+    background-size: 100% 100%;
+    background-position: center center;
+}
+.blacklayer
+{
+    height: 100%;
+    background-color:rgba(5, 5, 5, 0.7);
+}
+/*-------------------------------------------------------search section-------------------------------------------   */
+
+.search-content
+{
+    color: white;
+}
+.search-btn
+{
+    margin: 3rem 4rem;
+    width: 120px;
+    height: 50px;
+    background-color: #5984C3 !important ;
+    border-radius: 20%;
+}
+.search-btn a
+{
+    text-decoration: none;
+    font-size: 1.5rem;
+}
+
+
+/*-------------------------------------------trusted----------------------------------------------------*/
+.logo
+{
+    width: 100%;
+    border: white 3px solid;
+    border-radius: 20%;
+    background-color: white;
+    margin: 3rem ;
+}
+
+
+/*-----------------------------------------------about us------------------------------------------------------*/
+.aboutus-content
+{
+    margin-top: 10rem;
+}
+/*------------------------------------------------input------------------------------------------------*/
+.blacklayerrr
+{
+    height: 100%;
+    background-color:rgba(5, 5, 5, 0.95);
+}
+.areadesign
+{
+    background-color: transparent;
+    border-color:#5984CC ;
+    color: white !important;
+    border-bottom-left-radius: 20%;
+    border-bottom-right-radius: 20%;
+}
+.areadesign:hover
+{
+    background-color: transparent;
+}
+.submitbtn
+{
+    color: white !important;
+    background-color: transparent;
+    width: 120px;
+    border-radius: 40%;
+}
+.submitbtn:hover
+{
+    color: white !important;
+}
+.submitbtn a
+{
+    text-decoration: none;
+}
+
+
+/*------------------------------------------fake---------------------------------------*/
+
+.fake
+{
+    color: #990000 !important;
+}
+.card
+{
+    background-color: #000000 !important;
+    color: blanchedalmond !important;
+    margin: 8px;
+}
+.cardfake
+{
+    border-left: #990000 1rem solid ;
+}
+.fakefont
+{
+    font-size: 7rem;
+    margin-bottom: 2rem;
+}
+
+/*------------------------------------------real---------------------------------------*/
+.real
+{
+    color: #009900 !important;
+}
+.card
+{
+    background-color: #000000 !important;
+    color: blanchedalmond !important;
+    margin: 8px;
+}
+.cardreal
+{
+    border-left: #009900 1rem solid ;
+}
+.realfont
+{
+    font-size: 7rem;
+    margin-bottom: 2rem;
+}
